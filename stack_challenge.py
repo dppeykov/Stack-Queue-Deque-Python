@@ -1,3 +1,8 @@
+# Challenge:
+# Use stack to find if a string of brackets is balanced or unbalanced
+# Example of a balanced ({[[{{{((()))}}}]]})
+
+
 class Stack:
 
     def __init__(self):
